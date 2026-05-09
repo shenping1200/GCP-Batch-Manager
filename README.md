@@ -301,7 +301,7 @@ python GCP_Manager_v3.4.py
 
 - **作者**: shenping1200
 - **GitHub**: [shenping1200](https://github.com/shenping1200)
-- **邮箱**: shenping1200@users.noreply.github.com
+- **邮箱**: shenping120656@outlook.com
 
 ## 🙏 致谢
 
